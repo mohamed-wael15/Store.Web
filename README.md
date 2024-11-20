@@ -4,17 +4,18 @@
 
    - This is a complete platform dedicated to popular foods, built using the .NET Web API. The platform allows users to browse, search and purchase foods while providing a powerful admin panel to manage products, orders and users.
 
-----------------------------------
+
 ▶ Features 
+-------------------------------------
    - User Authentication: Secure login and registration system.
    - Product Management: Get all brands, Get all Types, Get all Products,Get all Product by Id.
    - Shopping Cart: Real-time cart management with the ability to add, update, and remove items.
    - Order Management: Process and manage customer orders.
    - User Manager : Manage Food products, orders, and user information.
    - Payment Integration: Secure payment handling for Food purchases.
------------------------------------
-▶ Technologies used
 
+▶ Technologies used
+-----------------------------------
  The project was developed using the following technologies and tools:
 
  ◉ Programming language and databases:
@@ -62,9 +63,9 @@
   - Performance optimization: with caching and Redis.
     
   - Secure and easy payment: with Stripe.
------------------------------------------------
-▶ Getting Started
 
+▶ Getting Started
+-----------------------------------
 Prerequisites
 
 Ensure you have the following installed on your machine:
@@ -73,9 +74,9 @@ Ensure you have the following installed on your machine:
   - SQL Server 
   - Redis 
   - Stripe Account
--------------------------------------------
-Setup Instructions
 
+Setup Instructions
+-----------------------------------
   1-Clone the Repository
   
    Clone the project to your local machine:
