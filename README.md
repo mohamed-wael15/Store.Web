@@ -80,7 +80,7 @@ Setup Instructions
   
    Clone the project to your local machine:
     
-      git clone [https://github.com/mohamedshehatadev17/Ecommerce](https://github.com/mohamed-wael15/StoreAPI).git
+      git clone https://github.com/mohamed-wael15/StoreAPI.git
   
   2-Install Dependencies
  
